@@ -8,6 +8,14 @@
 
 ### JavaScript pode mostrar elementos HTML
 
+<a href="https://github.com/user-attachments/assets/e1c55cf4-baf0-4e06-a7e2-cbdef3f3ef3a">
+  <img width="100%" alt="css" src="https://github.com/user-attachments/assets/e1c55cf4-baf0-4e06-a7e2-cbdef3f3ef3a"/>
+</a>
+
+&nbsp;
+
+### JavaScript pode mostrar elementos HTML
+
 <a href="https://github.com/user-attachments/assets/8023ba40-afdd-42e1-a600-bb3b0c4fcc5e">
   <img width="100%" alt="mostrar-elementos-html" src="https://github.com/user-attachments/assets/8023ba40-afdd-42e1-a600-bb3b0c4fcc5e"/>
 </a>
