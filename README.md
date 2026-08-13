@@ -1,4 +1,4 @@
-### Primeiro deixar o elemento como display none
+### JavaScript pode mostrar elementos HTML
 
 <a href="https://github.com/user-attachments/assets/cfe97b14-0065-4337-a0ca-cddf009113a2">
   <img width="100%" alt="html-css" src="https://github.com/user-attachments/assets/cfe97b14-0065-4337-a0ca-cddf009113a2"/>
