@@ -1,15 +1,15 @@
 ### JavaScript pode mostrar elementos HTML
 
-<a href="https://github.com/user-attachments/assets/94897884-2324-4e8c-9d3e-7c0988e4d3c8">
-  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/94897884-2324-4e8c-9d3e-7c0988e4d3c8"/>
+<a href="https://github.com/user-attachments/assets/cfe97b14-0065-4337-a0ca-cddf009113a2">
+  <img width="100%" alt="html-css" src="https://github.com/user-attachments/assets/cfe97b14-0065-4337-a0ca-cddf009113a2"/>
 </a>
 
 &nbsp;
 
 ### JavaScript pode mostrar elementos HTML
 
-<a href="https://github.com/user-attachments/assets/e1c55cf4-baf0-4e06-a7e2-cbdef3f3ef3a">
-  <img width="100%" alt="css" src="https://github.com/user-attachments/assets/e1c55cf4-baf0-4e06-a7e2-cbdef3f3ef3a"/>
+<a href="https://github.com/user-attachments/assets/6a2f0b8e-44c3-4ec5-85db-161a6d90ff46">
+  <img width="100%" alt="javascript" src="https://github.com/user-attachments/assets/6a2f0b8e-44c3-4ec5-85db-161a6d90ff46"/>
 </a>
 
 &nbsp;
