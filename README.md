@@ -8,7 +8,7 @@
 
 &nbsp;
 
-### Função JavaScript só executada quando chamado
+### Função JavaScript só é executada quando chamado
 
 <a href="https://github.com/user-attachments/assets/6a2f0b8e-44c3-4ec5-85db-161a6d90ff46">
   <img width="100%" alt="javascript" src="https://github.com/user-attachments/assets/6a2f0b8e-44c3-4ec5-85db-161a6d90ff46"/>
